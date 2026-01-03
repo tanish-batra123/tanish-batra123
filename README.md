@@ -17,7 +17,7 @@
 - 🔭 Currently working on **JOBIFY** (MERN-based Project)  
 - 🌱 Learning **DSA, MERN Stack & System Design**  
 - 💬 Ask me about **Frontend Development, C++, and Problem Solving**  
-- 📫 Reach me at **tanishbatra9667@gmail.com**  
+- 📫 Reach me at **tanishbatra893@gmail.com**  
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
